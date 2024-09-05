@@ -1,0 +1,10 @@
+.item-detail-container {
+    padding: 20px;
+    text-align: center;
+}
+  
+.item-detail-container .item-detail-image {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}

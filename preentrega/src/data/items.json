@@ -1,0 +1,82 @@
+[
+    {
+      "id": "productorandom1",
+      "name": "RANDOMNESS 01",
+      "price": 10.99,
+      "category": "nuevosproductos",
+      "image": "https://picsum.photos/200?random=1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom2",
+      "name": "RANDOMNESS 02",
+      "price": 12.99,
+      "category": "nuevosproductos",
+      "image": "https://picsum.photos/200?random=2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom3",
+      "name": "RANDOMNESS 03",
+      "price": 9.99,
+      "category": "nuevosproductos",
+      "image": "https://picsum.photos/200?random=3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom4",
+      "name": "RANDOMNESS 04",
+      "price": 15.99,
+      "category": "productosrandom",
+      "image": "https://picsum.photos/200?random=4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom5",
+      "name": "RANDOMNESS 05",
+      "price": 11.99,
+      "category": "productosrandom",
+      "image": "https://picsum.photos/200?random=5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom6",
+      "name": "RANDOMNESS 06",
+      "price": 8.99,
+      "category": "productosrandom",
+      "image": "https://picsum.photos/200?random=6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom7",
+      "name": "RANDOMNESS 07",
+      "price": 16.99,
+      "category": "otrosproductos",
+      "image": "https://picsum.photos/200?random=7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom8",
+      "name": "RANDOMNESS 08",
+      "price": 13.99,
+      "category": "otrosproductos",
+      "image": "https://picsum.photos/200?random=8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom9",
+      "name": "RANDOMNESS 09",
+      "price": 7.99,
+      "category": "otrosproductos",
+      "image": "https://picsum.photos/200?random=9",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "productorandom10",
+      "name": "RANDOMNESS 10",
+      "price": 14.99,
+      "category": "nuevosproductos",
+      "image": "https://picsum.photos/200?random=10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]
